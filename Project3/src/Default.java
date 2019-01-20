@@ -1,6 +1,6 @@
 
 public class Default {
 	/**
-	 * Não sou nada!
+	 * Não sou nada! OK
 	 */
 }
